@@ -1,0 +1,6 @@
+/.idea*
+/venv*
+*~
+*.pdb
+*.pyc
+*.pyo
